@@ -59,6 +59,7 @@ dkms.conf
 .DS_Store
 
 #other
+cmake-build-debug/
 node_modules/
 bower_components/
 .tmp
