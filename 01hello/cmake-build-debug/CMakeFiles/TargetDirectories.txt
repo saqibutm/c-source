@@ -1,0 +1,3 @@
+/Users/saqibali/github/c/01hello/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/saqibali/github/c/01hello/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/saqibali/github/c/01hello/cmake-build-debug/CMakeFiles/01hello.dir
